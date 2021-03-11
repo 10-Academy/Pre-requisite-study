@@ -13,4 +13,4 @@ math/stats links ....
 
 ### Basics of software dev.
 
-and this
+Don't know about Git and Github <a href="https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6">check this out</a>
