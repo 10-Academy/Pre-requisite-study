@@ -10,5 +10,5 @@ Be sure to do the following topics
   <li><a href="https://data-flair.training/blogs/loops-in-python/">Loops in Python</a></li>
  </ul>
  
- Learner can then proceed to set up their environment. <a href="https://www.anaconda.com/download/">Anaconda</a> is advised because it is easy to set up.  It is a freemium open source distribution of the Python programming languages for both small and large scale data processing, predictive analytics, and scientific computatio. Anaconda has all you need for your data science journey with Python.
+ Learner can then proceed to set up their environment. <a href="https://www.anaconda.com/download/">Anaconda</a> is advised because it is easy to set up.  It is a freemium open source distribution of the Python programming languages for both small and large scale data processing, predictive analytics, and scientific computation. Anaconda has all you need for your data science journey with Python.
  
