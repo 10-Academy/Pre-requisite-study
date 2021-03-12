@@ -11,4 +11,4 @@ Here is a list of what will be covered in the blog post
   <li>Categories In Statistics</li>
   <li>Understanding Descriptive Analysis</li>
  </ul>
- <a href="https://www.edureka.co/blog/math-and-statistics-for-data-science/" target="_blank">Continue Reading</a>
+ <a href="https://www.edureka.co/blog/math-and-statistics-for-data-science" target="_blank">Continue Reading</a>
