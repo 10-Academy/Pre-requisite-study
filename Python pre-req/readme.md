@@ -12,3 +12,4 @@ Be sure to do the following topics
  
  Learner can then proceed to set up their environment. <a href="https://www.anaconda.com/download/">Anaconda</a> is advised because it is easy to set up.  It is a freemium open source distribution of the Python programming languages for both small and large scale data processing, predictive analytics, and scientific computation. Anaconda has all you need for your data science journey with Python.
  
+ A structure all in one guide to master the art of using python for data sciecne [clik to know more](https://edube.org/learn/programming-essentials-in-python-tests/lab/8a7a26d6-0392-11e9-ac91-02426ea0318a)
