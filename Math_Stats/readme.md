@@ -13,3 +13,14 @@ Here is a list of what will be covered in the blog post
  </ul>
  
  <a href="https://www.edureka.co/blog/math-and-statistics-for-data-science" target="_blank">Continue Reading</a>
+
+Another resource to learn and equip yourself with the knowledge of maths and stats for data science, packaged and delivered by EDX
+<a href="https://learning.edx.org/course/course-v1:UCSanDiegoX+DSE210x+3T2017/home" target="_blank" rel="noopener noreferrer"> read more </a>
+
+Learn about Linear Algebra <a href="https://www.coursera.org/learn/linear-algebra-machine-learning" target="_blank" rel="noopener noreferrer">here</a> 
+
+Some Practice Questions link below::
+
+1. <a href="https://www.datascienceweekly.org/articles/how-much-math-stats-do-i-need-on-my-data-science-resume"> Data Science Weekly</a>
+2. <a href="https://www.analyticsvidhya.com/blog/2017/01/19-mooc-mathematics-statistics-datascience-machine-learning/"> Analytics Vidhya MOOCs questions</a>
+3. <a href="https://www.kdnuggets.com/2015/09/15-math-mooc-data-science.html"> KDNuggets 15 minutes Math MOOcs for data science</a>
