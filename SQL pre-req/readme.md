@@ -13,3 +13,7 @@ Now, you must be thinking about why we are talking about the database? This is b
 Understanding SQL from a beginner's POV
 In this post, Anastasia Stefanuk explains what SQL is, the basics involved in SQL programming, which industries it’s most commonly used in, common SQL database systems, and how to start learning the language yourself. 
 [Read More](https://learntocodewith.me/posts/sql-guide/)
+
+Some Practice Questions tips and approach::
+1. [7 SQL QUestions](https://towardsdatascience.com/7-beginner-to-intermediate-sql-interview-questions-for-data-analytics-roles-e465f26b8fe6)
+2. [Twenty-five SQL practice exercises](https://towardsdatascience.com/twenty-five-sql-practice-exercises-5fc791e24082)
