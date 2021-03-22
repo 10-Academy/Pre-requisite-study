@@ -22,7 +22,7 @@ Linear Algebra <br>
 Differential Equation <br>
 Calculus <br>
 
-### Basics of software dev.
+### Basics of software Engineering.
 
 [Understanding Software Development Process](https://www.browserstack.com/guide/learn-software-development-process)
 
