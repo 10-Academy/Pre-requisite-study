@@ -33,3 +33,9 @@ Calculus <br>
 ### Development environment
 
 Don't know about Git and Github <a href="https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6" target='_blank'>check this out</a>
+
+Beginner's Guide to github from <a href="https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/" target="blank"> Freecode Camp</a>
+
+Setting Up your Environment using any OS platform (windows, MAC, ubuntu etc) <a href="https://test-jupyter.readthedocs.io/en/latest/install.html" target="_blank">Click here</a> to set up your Jupyter notebook
+
+Learn the nitty-gritty about <a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/" target="_blank"> Jupyter Notebooks here</a>. Improve your understanding of the usage of Jupyter notebook using <a href="https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a" target="_blank">this article </a> 
