@@ -19,8 +19,13 @@ Another resource to learn and equip yourself with the knowledge of maths and sta
 
 Learn about Linear Algebra <a href="https://www.coursera.org/learn/linear-algebra-machine-learning" target="_blank" rel="noopener noreferrer">here</a> 
 
+Statistics by Marin : https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa <br>
+Statquest youtube channel: https://www.youtube.com/user/joshstarmer <br>
+Learn Stats and Maths in Detail here: https://www.onlinemathlearning.com/statistics.html
+
 Some Practice Questions link below::
 
 1. <a href="https://www.datascienceweekly.org/articles/how-much-math-stats-do-i-need-on-my-data-science-resume"> Data Science Weekly</a>
 2. <a href="https://www.analyticsvidhya.com/blog/2017/01/19-mooc-mathematics-statistics-datascience-machine-learning/"> Analytics Vidhya MOOCs questions</a>
 3. <a href="https://www.kdnuggets.com/2015/09/15-math-mooc-data-science.html"> KDNuggets 15 minutes Math MOOcs for data science</a>
+4. <a href="https://sites.google.com/site/statisticsindepth/basic-statistics"> Basic Stats Questions </a>
