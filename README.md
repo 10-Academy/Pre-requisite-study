@@ -1,5 +1,5 @@
 # Pre-requisite-study guide
-A list of information that we recommend all 10 Academy intensive training learners are familiar with, before they start intensive training.
+A list of information that we recommend all 10 Academy trainees to be familiar with, before they start intensive training.
 
 ### Python
 List<br>
